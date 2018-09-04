@@ -1,3 +1,0 @@
-C:/Users/cais1/Desktop/CSSE351/1819a-csse351-cais1/Circle/CMakeFiles/Circle.dir
-C:/Users/cais1/Desktop/CSSE351/1819a-csse351-cais1/Circle/CMakeFiles/ALL_BUILD.dir
-C:/Users/cais1/Desktop/CSSE351/1819a-csse351-cais1/Circle/CMakeFiles/ZERO_CHECK.dir
