@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Circle\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Circle\src\gl3w\gl3w.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Circle\src\GLHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Circle\src\gl3w\gl3w.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Circle\src\gl3w\glcorearb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Circle\src\simplePNG.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Circle\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{31958AEB-D57F-3029-BF21-0C62B429B99C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FB491BF7-CBB2-3F4D-B200-8F6440DDC4C5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

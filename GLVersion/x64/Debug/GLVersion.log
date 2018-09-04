@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/cais1/Desktop/CSSE351/1819a-csse351-cais1/GLVersion/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/cais1/Desktop/CSSE351/1819a-csse351-cais1/GLVersion/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+  gl3w.c
+x64\Debug\main.obj : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

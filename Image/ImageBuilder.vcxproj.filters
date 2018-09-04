@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Image\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Image\src\Colorer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Image\src\ImageBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Image\src\rgb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Image\src\simplePNG.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Image\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{077FEC7F-61FE-3AAD-8FF6-4F681E97B427}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D06F198E-0D31-3E6B-82CE-522DB8126FAA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
