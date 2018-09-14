@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\src\glm\detail\dummy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\src\glm\detail\glm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\src\gl3w\gl3w.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\src\GLHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\src\Model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\src\RenderEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\src\ShaderManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\src\WorldState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\src\gl3w\gl3w.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\src\gl3w\glcorearb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\src\simplePNG.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\resources\simple.frag" />
+    <None Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\resources\simple.vert" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{92FE7876-BF5A-37C5-869B-D74EDE9C3416}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{985A4E07-11A0-3480-93C7-064712B2592A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

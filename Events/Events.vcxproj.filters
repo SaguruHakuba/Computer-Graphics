@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Events\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Events\src\gl3w\gl3w.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Events\src\GLHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Events\src\GraphicsHelpers-orig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Events\src\GraphicsHelpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Events\src\WorldState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Events\src\gl3w\gl3w.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Events\src\gl3w\glcorearb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Events\src\simplePNG.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Events\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F60DB21D-16A2-30FC-9A34-D39D1BD2F867}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{93392597-B512-37B7-BA03-5216EA6FE34D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

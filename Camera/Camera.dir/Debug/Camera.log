@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\cais1\desktop\csse351\1819a-csse351-cais1\camera\src\simplepng.h(189): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+c:\users\cais1\desktop\csse351\1819a-csse351-cais1\camera\src\simplepng.h(215): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\cais1\desktop\csse351\1819a-csse351-cais1\camera\src\shadermanager.h(50): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: see declaration of '_snprintf'
+c:\users\cais1\desktop\csse351\1819a-csse351-cais1\camera\src\shadermanager.h(52): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: see declaration of '_snprintf'
+c:\users\cais1\desktop\csse351\1819a-csse351-cais1\camera\src\shadermanager.h(169): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\cais1\desktop\csse351\1819a-csse351-cais1\camera\src\model.h(22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\cais1\desktop\csse351\1819a-csse351-cais1\camera\src\model.h(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\cais1\desktop\csse351\1819a-csse351-cais1\camera\src\model.h(86): warning C4018: '<': signed/unsigned mismatch
+  Camera.vcxproj -> C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Camera\build\Debug\Camera.exe

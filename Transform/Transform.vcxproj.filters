@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\src\glm\detail\dummy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\src\glm\detail\glm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\src\gl3w\gl3w.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\src\GLHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\src\GraphicsHelpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\src\ShaderManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\src\WorldState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\src\gl3w\gl3w.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\src\gl3w\glcorearb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\src\simplePNG.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\resources\simple.frag" />
+    <None Include="C:\Users\cais1\Desktop\CSSE351\1819a-csse351-cais1\Transform\resources\simple.vert" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D54284A3-690E-3E72-888D-FB1616C50468}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A4622907-55A4-3E75-BB86-00DA94B4F55D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
